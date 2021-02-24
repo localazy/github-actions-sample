@@ -1,4 +1,5 @@
 {
   "app_name": "Automated App",
-  "app_desc": "A simple localizable file for a demonstration of fully automated localization."
+  "app_desc": "A simple localizable file for a demonstration of fully automated localization.",
+  "test":"Test"
 }
