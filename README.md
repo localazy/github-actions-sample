@@ -1,8 +1,8 @@
 # Github Actions + Localazy
 
-This project demonstrates how to fully automate software localization using [Localazy](https://localazy) and Github Actions. 
+This project demonstrates how to fully automate software localization using [Localazy](https://localazy.com) and Github Actions. 
 
-You can read [detailed blog post about how to setup automated localization for your project](https://localazy/blog/automated-localization-github-actions-localazy).
+You can read [detailed blog post about how to setup automated localization for your project](https://localazy.com/blog/automated-localization-github-actions-localazy).
 
 ---
 
@@ -18,7 +18,7 @@ And as we are going to use **[Github Actions](https://github.com/features/action
 
 ## What's going on? 
 
-Using Github Actions, on each commit touching it, the file `locales/en.json` is automatically uploaded to the [Localazy translation platform](https://localazy) where all the translations as well as translators, contributors and volunteers can be easily managed using beautiful UI.
+Using Github Actions, on each commit touching it, the file `locales/en.json` is automatically uploaded to the [Localazy translation platform](https://localazy.com) where all the translations as well as translators, contributors and volunteers can be easily managed using beautiful UI.
 
 Another Github action demonstrates how to download all localized strings when building the final release of the app. 
 
@@ -26,7 +26,7 @@ And as a bonus, **Localazy can translate your app to up to 80 languages for free
 
 ---
 
-**[Read more in the blog post](https://localazy/blog/automated-localization-github-actions-localazy)**:
+**[Read more in the blog post](https://localazy.com/blog/automated-localization-github-actions-localazy)**:
 
 - How to set up project with Localazy as a localization solution
 
